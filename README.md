@@ -31,20 +31,6 @@ Developed using **C# and Windows Forms**, powered by **Microsoft SQL Server**, a
 
 ---
 
-## 📸 Application Preview
-
-> Screenshots of the actual application will be displayed here.
-
-| Main Dashboard | People Management |
-|:---:|:---:|
-| ![Dashboard](docs/images/dashboard.png) | ![People](docs/images/people-management.png) |
-
-| Applications Management | Licenses Management |
-|:---:|:---:|
-| ![Applications](docs/images/applications.png) | ![Licenses](docs/images/licenses.png) |
-
----
-
 ## ✨ Key Features
 
 ### 🔐 Authentication & User Management
