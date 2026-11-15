@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5055E7-A77A-42EE-975D-0BBCFAD732CB}|DVLD_BusinessLayer\\DVLD_BusinessLayer.csproj|d:\\desktop applications\\driving_and_vehicle_license_department_system\\driving_vehicle_license_department\\dvld_businesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5055E7-A77A-42EE-975D-0BBCFAD732CB}|DVLD_BusinessLayer\\DVLD_BusinessLayer.csproj|solutionrelative:dvld_businesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5055E7-A77A-42EE-975D-0BBCFAD732CB}|DVLD_BusinessLayer\\DVLD_BusinessLayer.csproj|d:\\desktop applications\\driving_and_vehicle_license_department_system\\driving_vehicle_license_department\\dvld_businesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5055E7-A77A-42EE-975D-0BBCFAD732CB}|DVLD_BusinessLayer\\DVLD_BusinessLayer.csproj|solutionrelative:dvld_businesslayer\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32566A97-4CF7-403C-90E4-7E4606345E90}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|d:\\desktop applications\\driving_and_vehicle_license_department_system\\driving_vehicle_license_department\\dvld_dataaccesslayer\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32566A97-4CF7-403C-90E4-7E4606345E90}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clsuserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\frmlistpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\controls\\ctrlpersoncardwithfilter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\controls\\ctrlpersoncardwithfilter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32566A97-4CF7-403C-90E4-7E4606345E90}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|d:\\desktop applications\\driving_and_vehicle_license_department_system\\driving_vehicle_license_department\\dvld_dataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32566A97-4CF7-403C-90E4-7E4606345E90}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\main\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|d:\\desktop applications\\driving_and_vehicle_license_department_system\\driving_vehicle_license_department\\dvld_project\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\frmfindperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32566A97-4CF7-403C-90E4-7E4606345E90}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_dataaccesslayer\\clscountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32566A97-4CF7-403C-90E4-7E4606345E90}|DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|solutionrelative:dvld_dataaccesslayer\\clscountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5055E7-A77A-42EE-975D-0BBCFAD732CB}|DVLD_BusinessLayer\\DVLD_BusinessLayer.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_businesslayer\\clscountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5055E7-A77A-42EE-975D-0BBCFAD732CB}|DVLD_BusinessLayer\\DVLD_BusinessLayer.csproj|solutionrelative:dvld_businesslayer\\clscountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\global classes\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\global classes\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\global classes\\clsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\dvld_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37E6748-EA7D-423B-9852-8930E000FE8A}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_DataAccessLayer\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsPersonData.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_DataAccessLayer\\clsPersonData.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsPersonData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAL8AAADEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T14:02:25.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_BusinessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "DVLD_BusinessLayer\\clsUser.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_BusinessLayer\\clsUser.cs",
+              "RelativeToolTip": "DVLD_BusinessLayer\\clsUser.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAYwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T13:31:04.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_BusinessLayer\\clsPerson.cs",
+              "RelativeDocumentMoniker": "DVLD_BusinessLayer\\clsPerson.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_BusinessLayer\\clsPerson.cs",
+              "RelativeToolTip": "DVLD_BusinessLayer\\clsPerson.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA7wB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T16:14:28.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUserData.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_DataAccessLayer\\clsUserData.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsUserData.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_DataAccessLayer\\clsUserData.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsUserData.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAWwOsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T15:57:47.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ctrlPersonCardWithFilter.Designer.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.Designer.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.Designer.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.Designer.cs",
+              "RelativeToolTip": "DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T21:40:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmFindPerson.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\frmFindPerson.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmFindPerson.cs",
+              "RelativeToolTip": "DVLD_Project\\People\\frmFindPerson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T21:39:10.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ctrlPersonCardWithFilter.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeToolTip": "DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwF4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:24:54.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Main\\frmMain.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Main\\frmMain.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Main\\frmMain.cs",
+              "RelativeToolTip": "DVLD_Project\\Main\\frmMain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T23:34:40.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmListPeople.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\frmListPeople.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmListPeople.cs",
+              "RelativeToolTip": "DVLD_Project\\People\\frmListPeople.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAEwBoBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:04:14.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmFindPerson.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmFindPerson.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\frmFindPerson.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmFindPerson.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\People\\frmFindPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:30:29.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddUpdatePerson.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\frmAddUpdatePerson.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmAddUpdatePerson.cs",
+              "RelativeToolTip": "DVLD_Project\\People\\frmAddUpdatePerson.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAASwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T12:05:22.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmListPeople.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmListPeople.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\frmListPeople.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmListPeople.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\People\\frmListPeople.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:30:30.712Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Main\\frmMain.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Main\\frmMain.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Main\\frmMain.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\Main\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:35:04.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsCountryData.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_DataAccessLayer\\clsCountryData.cs",
+              "RelativeDocumentMoniker": "DVLD_DataAccessLayer\\clsCountryData.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_DataAccessLayer\\clsCountryData.cs",
+              "RelativeToolTip": "DVLD_DataAccessLayer\\clsCountryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T13:25:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAddUpdatePerson.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\frmAddUpdatePerson.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmAddUpdatePerson.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\People\\frmAddUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T06:27:40.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmShowPersonInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\frmShowPersonInfo.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmShowPersonInfo.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\People\\frmShowPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:36:05.554Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmShowPersonInfo.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\frmShowPersonInfo.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\frmShowPersonInfo.cs",
+              "RelativeToolTip": "DVLD_Project\\People\\frmShowPersonInfo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:14:51.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T11:53:04.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeToolTip": "DVLD_Project\\People\\Controls\\ctrlPersonCard.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwG8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T15:34:34.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:04:08.538Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsCountry.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_BusinessLayer\\clsCountry.cs",
+              "RelativeDocumentMoniker": "DVLD_BusinessLayer\\clsCountry.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_BusinessLayer\\clsCountry.cs",
+              "RelativeToolTip": "DVLD_BusinessLayer\\clsCountry.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T11:58:00.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Global Classes\\clsUtil.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Global Classes\\clsUtil.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Global Classes\\clsUtil.cs",
+              "RelativeToolTip": "DVLD_Project\\Global Classes\\clsUtil.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:10:16.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Program.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Program.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Program.cs",
+              "RelativeToolTip": "DVLD_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T21:25:08.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsValidation.cs",
+              "DocumentMoniker": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Global Classes\\clsValidation.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Global Classes\\clsValidation.cs",
+              "ToolTip": "D:\\Desktop Applications\\Driving_And_Vehicle_License_Department_System\\Driving_Vehicle_License_Department\\DVLD_Project\\Global Classes\\clsValidation.cs",
+              "RelativeToolTip": "DVLD_Project\\Global Classes\\clsValidation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:45:48.845Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
