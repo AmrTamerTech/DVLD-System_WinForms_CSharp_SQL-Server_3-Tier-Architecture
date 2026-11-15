@@ -317,7 +317,7 @@ Developing this project provided practical experience in:
 
 Backend Developer | C# | .NET | SQL Server
 
-[GitHub Profile](https://github.com/)
+GitHub: [@AmrTamerTech](https://github.com/AmrTamerTech)
 
 ---
 
